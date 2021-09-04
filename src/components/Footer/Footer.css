@@ -1,0 +1,10 @@
+.rest-footerthumbnail {
+  position: relative;
+}
+
+.rest-footercaption {
+  position: absolute;
+  top: 25%;
+  left: 0;
+  width: 100%;
+}
